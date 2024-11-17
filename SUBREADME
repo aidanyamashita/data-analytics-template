@@ -1,1 +1,30 @@
+# Data Folder
+
+This folder contains the datasets used for analysis in this project. It includes both **raw** and **processed** data.
+
+## Folder Structure
+
+- **raw/**: Raw, unprocessed data directly sourced from external files or APIs.
+- **processed/**: Cleaned and transformed data ready for analysis or modeling.
+- **external/**: Data from external sources or APIs.
+
+## Data Sources
+
+1. **Raw Data**:
+   - `raw/dataset1.csv`: Raw dataset for initial exploration.
+   - `raw/dataset2.json`: Another raw dataset in JSON format.
+
+2. **Processed Data**:
+   - `processed/cleaned_dataset1.csv`: Cleaned version of `dataset1.csv`, with missing values handled and columns renamed.
+   - `processed/cleaned_dataset2.csv`: Processed data with feature engineering applied.
+
+3. **External Data**:
+   - `external/external_data.csv`: Data sourced from [link or API name].
+
+## How to Use This Data
+
+1. Load raw data using `pandas`:
+   ```python
+   import pandas as pd
+   raw_data = pd.read_csv('data/raw/dataset1.csv')
 
