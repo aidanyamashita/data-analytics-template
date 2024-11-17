@@ -94,3 +94,35 @@ All notable changes to this project will be documented in this file.
 ### Changed
 - Improved folder structure in `src/` for more modular code.
   
+## Headings and Structure
+
+Here’s an outline of the headings and sections for the notebook:
+
+-Title
+  -The title of the project or analysis.
+
+-Introduction
+  -A brief description of the analysis, the dataset, and the goals of the notebook.
+  
+-Install and Import Libraries
+  -Import necessary libraries for data manipulation, analysis, and visualization.
+  
+-Load Data
+  -Code to load the dataset(s) into a DataFrame.
+  
+-Data Exploration
+  -Initial exploration of the dataset, checking for basic information like shape, columns, missing values, etc.
+  
+-Data Cleaning
+  -Code to clean the data: handling missing values, duplicates, and any necessary transformations.
+  
+-Exploratory Data Analysis (EDA)
+  -Code to perform EDA: summary statistics, visualizations, and insights from the dataset.
+
+## Boilerplate Code
+
+-import pandas as pd
+-import numpy as np
+-import matplotlib.pyplot as plt
+-Load the dataset (Change the file path or URL as needed)
+  -data = pd.read_csv('path/to/dataset.csv')
