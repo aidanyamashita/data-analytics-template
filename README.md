@@ -54,3 +54,24 @@ This data dictionary describes the variables in the dataset related to One Piece
 - **Text**: A string of characters, usually representing categorical data (e.g., names, titles).
 - **Numeric**: Integer or floating-point numbers, representing continuous or quantitative data (e.g., chapter count, episode count, percentages).
 
+# To-Do List for Data Analytics Template Project
+
+This is the list of tasks to be completed for the current and future iterations of the data analytics project template.
+
+## High Priority
+
+- [ ] **Example** example (due: )
+
+## Medium Priority
+
+- [ ] **Example** example (due: )
+
+
+## Low Priority
+
+- [ ] **Example** example (due: )
+
+## Ongoing
+
+- [ ] **Example** example
+
