@@ -25,6 +25,3 @@ matplotlib
 scikit-learn
 jupyter
 
-git add .
-git commit -m "Initial commit with repository structure and README"
-git push origin main
