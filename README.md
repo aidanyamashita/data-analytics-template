@@ -54,7 +54,7 @@ This data dictionary describes the variables in the dataset related to One Piece
 - **Text**: A string of characters, usually representing categorical data (e.g., names, titles).
 - **Numeric**: Integer or floating-point numbers, representing continuous or quantitative data (e.g., chapter count, episode count, percentages).
 
-# To-Do List for Data Analytics Template Project
+# To-Do List for Data Analytics Template Project (sample)
 
 This is the list of tasks to be completed for the current and future iterations of the data analytics project template.
 
@@ -75,3 +75,22 @@ This is the list of tasks to be completed for the current and future iterations 
 
 - [ ] **Example** example
 
+# Changelog for Data Analytics Template Project (sample)
+
+All notable changes to this project will be documented in this file. 
+
+## [Unreleased]
+- Initial setup of the data analytics template repository.
+- Added folder structure for `data`, `notebooks`, `src`, `outputs`, and `docs`.
+- Created initial `README.md`, `.gitignore`, and `requirements.txt`.
+
+## [v1.0.0] - 2024-11-17
+### Added
+- Added `data_dictionary.md` to document the dataset structure.
+- Created the `notebooks/` folder with sample notebooks for data cleaning and exploratory analysis.
+- Set up basic project structure with a folder for raw and processed data (`data/raw/` and `data/processed/`).
+- Initial commit with project setup and instructions in `README.md`.
+
+### Changed
+- Improved folder structure in `src/` for more modular code.
+  
