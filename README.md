@@ -11,11 +11,10 @@ This repository serves as a template for data analytics projects. It contains a 
 
 ## Dependencies
 
-- Python 3.x
+- Python 
 - pandas
 - numpy
 - matplotlib
-- scikit-learn
 
 ## txt
 
@@ -75,13 +74,11 @@ This is the list of tasks to be completed for the current and future iterations 
 
 - [ ] **Example** example
 
-# Changelog for Data Analytics Template Project (sample)
-
-All notable changes to this project will be documented in this file. 
+# Change log for Data Analytics Template Project (sample)
 
 ## [Unreleased]
 - Initial setup of the data analytics template repository.
-- Added folder structure for `data`, `notebooks`, `src`, `outputs`, and `docs`.
+- Added folder structure for `data`, `notebooks`.
 - Created initial `README.md`, `.gitignore`, and `requirements.txt`.
 
 ## [v1.0.0] - 2024-11-17
@@ -92,7 +89,7 @@ All notable changes to this project will be documented in this file.
 - Initial commit with project setup and instructions in `README.md`.
 
 ### Changed
-- Improved folder structure in `src/` for more modular code.
+- Improved folder structure in `data/` for more modular code.
   
 ## Headings and Structure
 
